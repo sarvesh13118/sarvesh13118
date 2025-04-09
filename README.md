@@ -2,7 +2,7 @@
   <img src="./MY_LOGO.png" height="250" width="250" alt="MY_BANNER"/>
 </p>
 
-<h1 align="center">Hey there, I'm MR.VARAD1455 👋</h1>
+<h1 align="center">Hey there, I'm SARVESH 👋</h1>
 <h3 align="center">🚀 IT Engineering Student | Developer | Tech Enthusiast</h3>
 
 <p align="center">
